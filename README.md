@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Zakaria</h1>
-<h3 align="center">A passionate Laravel & Livewire developer from Morocco</h3>
+<h3 align="center">A Full-Time Web Developer Specializing in Laravel, Livewire, Tailwind, and AlpineJS</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zakarialabib&label=Profile%20views&color=0e75b6&style=flat" alt="zakarialabib" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zakarialabib&label=Profile%20views&color=0e75b6&style=flat" alt="zakarialabib" /> </p>
+- 💼 I build the most of components used in CRM ERP and e-commerce websites with Laravel and Livewire.
 
-- 🔭 I’m currently working on **Inventory Management Systems**
+- 🔭 I'm currently working on <a href="https://github.com/Zakarialabib/myStockMaster" target="_blank">MyStockMaster</a>
 
-- 🌱 I’m currently learning **Svelte,Astro**
+- 🌱 This year's goal is to explore and experiment with new technologies like Svelte, Astro, and Tauri.
 
-- 🤝 I’m using **Livewire a lot**
-
-- 💬 Ask me about **Laravel,Livewire,Tailwind**
+- 💬 Feel free to reach out to me if you have any questions about technology!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
