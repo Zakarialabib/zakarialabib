@@ -22,9 +22,3 @@ I'm proud of the several successful projects I have developed, including e-comme
 <a href="https://instagram.com/zakarialabib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zakarialabib" height="30" width="40" /></a>
 <a href="https://www.behance.net/zakarialabib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="zakarialabib" height="30" width="40" /></a>
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakarialabib&show_icons=true&locale=en&layout=compact" alt="zakarialabib" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakarialabib&show_icons=true&locale=en" alt="zakarialabib" /></p>
-
