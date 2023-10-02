@@ -1,19 +1,23 @@
-<h1 align="center">Hi 👋, I'm Zakaria</h1>
-<h3 align="center">Web Developer Specialized in Laravel, Livewire, Tailwind, and AlpineJS</h3>
+<h1 align="center">SALAM ! 👋</h1>
+
+<h3 align="center">Passionate Web Developer | Laravel | Livewire | Tailwind | AlpineJS</h3>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zakarialabib&label=Profile%20views&color=0e75b6&style=flat" alt="zakarialabib" /> </p>
 
-<p>As a Tech Savvy with experience in Web Dev dating back to 2016, I have grown my skills and knowledge through hands-on experience building websites with Laravel, developing CRM and ERP systems, and creating custom tools for various industries. </p>
-<p>My passion for open-source technology and giving back to the community has led me to focus my efforts on creating and contributing to open-source projects that empower individuals and businesses to thrive in the digital landscape. </br>
-I'm proud of the several successful projects I have developed, including e-commerce, travel, and delivery management systems. With a proven track record of success and an unwavering commitment to excellence, I am dedicated to leveraging my expertise to help organizations achieve their goals and drive growth.
+<p>
+  Greetings! 👋 I embarked on my tech journey by immersing myself in our family business, dealing with mobile parts, electronics and new technologies. This early exposure fueled my passion towards discovering and learning, leading me to delve into Digital Marketing & Web development.
 </p>
 
-- 💼 I build the most of components used in CRM ERP and e-commerce websites with Laravel and Livewire.
+<p>
+  My expertise extends to building projects using the Laravel TALL stack, crafting CRM and ERP systems, I am dedicated to engineering custom and unique tools, driven by a commitment to sharing knowledge and empowering others
+</p>
 
-- 🔭 I'm currently working on <a href="https://github.com/Zakarialabib/myStockMaster" target="_blank">MyStockMaster</a>
-
-- 🌱 This year's goal is to explore and experiment with new technologies like Svelte, Astro, and Tauri.
-
-- 💬 Feel free to reach out to me if you have any questions about technology!
+<ul>
+  <li>💼 I specialize in developing components for CRM, ERP, and e-commerce websites using Laravel and Livewire.</li>
+  <li>🔭 Currently immersed in a secret project similar to <a href="https://github.com/Zakarialabib/myStockMaster" target="_blank">MyStockMaster</a>.</li>
+  <li>🌱 Actively learning and exploring new technologies, like Rust, Svelte, or LLM agents automation.</li>
+   <li>🌟 If you find value in my work and wish to support, consider <a href="https://github.com/sponsors/Zakarialabib" target="_blank">sponsoring me</a>!</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
