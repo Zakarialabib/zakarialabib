@@ -1,9 +1,10 @@
 <h1 align="center"> السلام على من اتبع الهدى! 👋</h1>
-<h2>Zakaria Labib | زكرياء لبيب</h2>
+<h2 align="center">Zakaria Labib | زكرياء لبيب</h2>
 <h3 align="center">| ... | Human Muslim born in Morocco | انسان مسلم من المغرب | ... | </h3>
-<h4>Speciality | ... | Laravel | Livewire | Tailwind | AlpineJS | Design Thinking | Strategy | Product Management | ...
+<h4 align="center">Speciality | ... | Laravel | Livewire | Tailwind | AlpineJS | Design Thinking | Strategy | Product Management | ...
   | تخصص</h4>
-<h4>Speaking Fluently | العربية | English | Français | متكلم باللغات</h4>
+<h4 align="center">Speaking Fluently | العربية | English | Français | متكلم باللغات</h4>
+<div align="center">
 <p align="left">
   <a href="https://twitter.com/zakarialabib" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -23,7 +24,7 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zakarialabib&label=views&color=0e75b6&style=flat"
     alt="zakarialabib" /> </p>
-
+</div>
 <p>
   مرحبًا ! 👋 القصة لازالت في بداياتها ان اطال الله العمر, نبدة سريعة عن الصفحة, هنا ستجد ياصديقي عدد من المشاريع
   المفتوحة المصدر, نتاج تراكمي لم ياتي من عدم, انعم الله علينا باناس لانعرفهم استفادنا من تجاربهم واستوعبنا اخطائهم,
